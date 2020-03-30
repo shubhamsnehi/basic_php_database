@@ -1,0 +1,7 @@
+For Entering record - signinform.php
+After press submit it goes to - insert.php
+For login - login.php
+After pressed submit in login - loginphp.php
+pressed Edit Profile - updateform.php
+then for Update - update.php
+See all records - select.php
